@@ -23,5 +23,7 @@ public class TestSpringboot {
         String result = value.get("value");
 
         System.out.println(result);
+
+        System.out.println(result);
     }
 }
